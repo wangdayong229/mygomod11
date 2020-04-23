@@ -1,4 +1,4 @@
-package github.com/wangdayong228/mygomod11
+package mygomod11
 
 import "fmt"
 
